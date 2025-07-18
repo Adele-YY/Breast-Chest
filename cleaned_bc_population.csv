@@ -1,0 +1,186 @@
+Population code (ISO/UN),Population,Alpha‑3 code,ASR (World) per 100 000
+4,Afghanistan,AFG,29.44
+8,Albania,ALB,51.14
+12,Algeria,DZA,61.87
+24,Angola,AGO,29.43
+31,Azerbaijan,AZE,32.9
+32,Argentina,ARG,71.32
+36,Australia,AUS,101.47
+40,Austria,AUT,69.54
+44,Bahamas,BHS,64.64
+48,Bahrain,BHR,58.49
+50,Bangladesh,BGD,15.18
+51,Armenia,ARM,39.61
+52,Barbados,BRB,57.74
+56,Belgium,BEL,104.39
+64,Bhutan,BTN,4.56
+68,Bolivia (Plurinational State of),BOL,26.78
+70,Bosnia Herzegovina,BIH,51.88
+72,Botswana,BWA,23.03
+76,Brazil,BRA,63.12
+84,Belize,BLZ,46.75
+90,Solomon Islands,SLB,49.18
+96,Brunei Darussalam,BRN,50.16
+100,Bulgaria,BGR,52.82
+104,Myanmar,MMR,23.41
+108,Burundi,BDI,25.32
+112,Belarus,BLR,56.57
+116,Cambodia,KHM,25.13
+120,Cameroon,CMR,48.64
+124,Canada,CAN,88.59
+132,Cape Verde,CPV,23.4
+140,Central African Republic,CAF,37.72
+144,Sri Lanka,LKA,27.68
+148,Chad,TCD,14.24
+152,Chile,CHL,38.23
+156,China,CHN,33.04
+170,Colombia,COL,50.7
+174,Comoros,COM,21.5
+178,"Congo, Republic of",COG,26.85
+180,"Congo, Democratic Republic of",COD,26.45
+188,Costa Rica,CRI,37.53
+191,Croatia,HRV,74.64
+192,Cuba,CUB,47.24
+196,Cyprus,CYP,104.75
+203,Czechia,CZE,72.51
+204,Benin,BEN,33.26
+208,Denmark,DNK,95.42
+214,Dominican Republic,DOM,53.39
+218,Ecuador,ECU,39.46
+222,El Salvador,SLV,39.65
+226,Equatorial Guinea,GNQ,40.99
+231,Ethiopia,ETH,40.81
+232,Eritrea,ERI,37.78
+233,Estonia,EST,63.06
+242,Fiji,FJI,60.26
+246,Finland,FIN,92.33
+250,France (metropolitan),FRA,105.42
+254,French Guyana,GUF,55.71
+258,French Polynesia,PYF,71.91
+262,Djibouti,DJI,38.06
+266,Gabon,GAB,36.41
+268,Georgia,GEO,49.04
+270,The Republic of the Gambia,GMB,12.12
+275,Gaza Strip and West Bank,PSE,46.33
+276,Germany,DEU,77.02
+288,Ghana,GHA,40.19
+300,Greece,GRC,82.36
+312,"France, Guadeloupe",GLP,66.41
+316,Guam,GUM,44.15
+320,Guatemala,GTM,28.35
+324,Guinea,GIN,15.95
+328,Guyana,GUY,52.6
+332,Haiti,HTI,25.16
+340,Honduras,HND,27.28
+348,Hungary,HUN,76.38
+352,Iceland,ISL,71.06
+356,India,IND,26.6
+360,Indonesia,IDN,41.78
+364,"Iran, Islamic Republic of",IRN,30.45
+368,Iraq,IRQ,56.91
+372,Ireland,IRL,91.45
+376,Israel,ISR,78.74
+380,Italy,ITA,87.01
+384,Côte d'Ivoire,CIV,45.44
+388,Jamaica,JAM,71.12
+392,Japan,JPN,74.39
+398,Kazakhstan,KAZ,36.94
+400,Jordan,JOR,59.99
+404,Kenya,KEN,40.77
+408,"Korea, Democratic People Republic of",PRK,32.25
+410,"Korea, Republic of",KOR,61.48
+414,Kuwait,KWT,49.83
+417,Kyrgyzstan,KGZ,25.31
+418,Lao People's Democratic Republic,LAO,31.63
+422,Lebanon,LBN,57.89
+426,Lesotho,LSO,18.92
+428,Latvia,LVA,65.95
+430,Liberia,LBR,33.57
+434,Libya,LBY,30.98
+440,Lithuania,LTU,62.74
+442,Luxembourg,LUX,99.7
+450,Madagascar,MDG,30.32
+454,Malawi,MWI,25.19
+458,Malaysia,MYS,46.09
+462,Maldives,MDV,39.84
+466,Mali,MLI,37.73
+470,Malta,MLT,86.3
+474,"France, Martinique",MTQ,77.16
+478,Mauritania,MRT,34.54
+480,Mauritius,MUS,52.68
+484,Mexico,MEX,39.94
+496,Mongolia,MNG,12.63
+498,Republic of Moldova,MDA,46.57
+499,Montenegro,MNE,76.54
+504,Morocco,MAR,58.37
+508,Mozambique,MOZ,19.69
+512,Oman,OMN,33.96
+516,Namibia,NAM,53.93
+524,Nepal,NPL,14.35
+528,The Netherlands,NLD,101.6
+540,New Caledonia,NCL,90.18
+548,Vanuatu,VUT,29.6
+554,New Zealand,NZL,94.36
+558,Nicaragua,NIC,35.32
+562,Niger,NER,29.46
+566,Nigeria,NGA,51.5
+578,Norway,NOR,95.56
+586,Pakistan,PAK,34.23
+591,Panama,PAN,41.39
+598,Papua New Guinea,PNG,46.03
+600,Paraguay,PRY,58.37
+604,Peru,PER,39.3
+608,Philippines,PHL,60.34
+616,Poland,POL,65.96
+620,Portugal,PRT,88.75
+624,Guinea-Bissau,GNB,27.17
+626,Timor-Leste,TLS,26.38
+630,Puerto Rico,PRI,62.32
+634,Qatar,QAT,39.03
+638,"France, La Réunion",REU,55.94
+642,Romania,ROU,69.22
+643,Russian Federation,RUS,57.67
+646,Rwanda,RWA,16.2
+662,Saint Lucia,LCA,51.68
+678,Sao Tome and Principe,STP,19.91
+682,Saudi Arabia,SAU,25.28
+686,Senegal,SEN,29.89
+688,Serbia,SRB,60.5
+694,Sierra Leone,SLE,7.02
+702,Singapore,SGP,72.61
+703,Slovakia,SVK,67.3
+704,Viet Nam,VNM,37.96
+705,Slovenia,SVN,82.27
+706,Somalia,SOM,38.62
+710,South Africa,ZAF,47.8
+716,Zimbabwe,ZWE,35.84
+724,Spain,ESP,80.96
+728,South Sudan,SSD,27.99
+729,Sudan,SDN,39.94
+740,Suriname,SUR,46.38
+748,Eswatini,SWZ,26.17
+752,Sweden,SWE,81.41
+756,Switzerland,CHE,77.42
+760,Syrian Arab Republic,SYR,46.21
+762,Tajikistan,TJK,19.47
+764,Thailand,THA,37.44
+768,Togo,TGO,32.93
+780,Trinidad and Tobago,TTO,54.0
+784,United Arab Emirates,ARE,57.05
+788,Tunisia,TUN,36.16
+792,Türkiye,TUR,46.77
+795,Turkmenistan,TKM,31.13
+800,Uganda,UGA,23.34
+804,Ukraine,UKR,43.08
+807,North Macedonia,MKD,65.28
+818,Egypt,EGY,55.4
+826,United Kingdom,GBR,94.03
+834,"Tanzania, United Republic of",TZA,25.12
+840,United States of America,USA,95.91
+854,Burkina Faso,BFA,21.38
+858,Uruguay,URY,75.05
+860,Uzbekistan,UZB,27.79
+862,Venezuela,VEN,47.1
+882,Samoa,WSM,88.75
+887,Yemen,YEM,25.35
+894,Zambia,ZMB,22.32

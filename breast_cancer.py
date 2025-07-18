@@ -14,11 +14,11 @@ st.set_page_config(page_title="", page_icon="🎀", layout="wide")
 
 @st.cache_data
 def load_data():
-     return pd.read_csv("/Users/14708034428139.com/Desktop/cleaned_breast_cancer.csv")
+     return pd.read_csv("cleaned_breast_cancer.csv")
 
 bc = load_data()
-data = pd.read_csv('/Users/14708034428139.com/Desktop/cleaned_bc_population.csv')
-time = pd.read_csv('/Users/14708034428139.com/Desktop/cleaned_bc_time.csv')
+data = pd.read_csv('cleaned_bc_population.csv')
+time = pd.read_csv('cleaned_bc_time.csv')
 
 st.title("Breast Cancer")
 
